@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shivantha Deneth</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
